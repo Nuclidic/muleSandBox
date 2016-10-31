@@ -1,0 +1,60 @@
+!SESSION 2016-10-31 12:40:04.402 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.8.0_74
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data C:\muleSandBox
+
+!ENTRY org.mule.tooling.core 1 0 2016-10-31 12:40:08.524
+!MESSAGE Configuring M2_REPO variable with value: C:\Users\sjkelly\.m2\repository
+
+!ENTRY org.mule.tooling.core 1 0 2016-10-31 12:40:08.529
+!MESSAGE Configuring M2_REPO variable with value: C:\Users\sjkelly\.m2\repository
+
+!ENTRY org.eclipse.core.net 1 0 2016-10-31 12:40:12.824
+!MESSAGE System property http.proxyHost is not set but should be proxy-us.intel.com.
+
+!ENTRY org.eclipse.core.net 1 0 2016-10-31 12:40:12.825
+!MESSAGE System property http.proxyHost is not set but should be proxy-us.intel.com.
+
+!ENTRY org.eclipse.core.net 1 0 2016-10-31 12:40:12.825
+!MESSAGE System property http.proxyPort is not set but should be 911.
+
+!ENTRY org.eclipse.core.net 1 0 2016-10-31 12:40:12.826
+!MESSAGE System property http.proxyPort is not set but should be 911.
+
+!ENTRY org.eclipse.core.net 1 0 2016-10-31 12:40:12.827
+!MESSAGE System property https.proxyHost is not set but should be proxy-us.intel.com.
+
+!ENTRY org.eclipse.core.net 1 0 2016-10-31 12:40:12.827
+!MESSAGE System property https.proxyHost is not set but should be proxy-us.intel.com.
+
+!ENTRY org.eclipse.core.net 1 0 2016-10-31 12:40:12.828
+!MESSAGE System property https.proxyPort is not set but should be 912.
+
+!ENTRY org.eclipse.core.net 1 0 2016-10-31 12:40:12.829
+!MESSAGE System property https.proxyPort is not set but should be 912.
+
+!ENTRY org.eclipse.core.net 1 0 2016-10-31 12:40:12.830
+!MESSAGE System property https.proxyHost is not set but should be proxy-us.intel.com.
+
+!ENTRY org.eclipse.core.net 1 0 2016-10-31 12:40:12.831
+!MESSAGE System property https.proxyHost is not set but should be proxy-us.intel.com.
+
+!ENTRY org.eclipse.core.net 1 0 2016-10-31 12:40:12.832
+!MESSAGE System property https.proxyPort is not set but should be 912.
+
+!ENTRY org.eclipse.core.net 1 0 2016-10-31 12:40:12.833
+!MESSAGE System property https.proxyPort is not set but should be 912.
+
+!ENTRY org.mule.tooling.core 1 0 2016-10-31 12:41:11.586
+!MESSAGE Forcing the usage of 'current' in the schemaLocation of ObjectStore [version 1.0, ESB version 3.2+]. Original schemaLocation is: http://www.mulesoft.org/schema/mule/objectstore/1.0/mule-objectstore.xsd. New schemaLocation is: http://www.mulesoft.org/schema/mule/objectstore/current/mule-objectstore.xsd
+
+!ENTRY org.mule.tooling.core 1 0 2016-10-31 12:41:11.588
+!MESSAGE Forcing the usage of 'current' in the schemaLocation of ObjectStore [version 1.0, ESB version 3.2+]. Original schemaLocation is: http://www.mulesoft.org/schema/mule/objectstore/1.0/mule-objectstore.xsd. New schemaLocation is: http://www.mulesoft.org/schema/mule/objectstore/current/mule-objectstore.xsd
+
+!ENTRY org.mule.tooling.core 1 0 2016-10-31 12:41:11.648
+!MESSAGE Forcing the usage of 'current' in the schemaLocation of ObjectStore [version 1.0, ESB version 3.2+]. Original schemaLocation is: http://www.mulesoft.org/schema/mule/objectstore/1.0/mule-objectstore.xsd. New schemaLocation is: http://www.mulesoft.org/schema/mule/objectstore/current/mule-objectstore.xsd
+
+!ENTRY org.mule.tooling.core 1 0 2016-10-31 12:41:11.649
+!MESSAGE Forcing the usage of 'current' in the schemaLocation of ObjectStore [version 1.0, ESB version 3.2+]. Original schemaLocation is: http://www.mulesoft.org/schema/mule/objectstore/1.0/mule-objectstore.xsd. New schemaLocation is: http://www.mulesoft.org/schema/mule/objectstore/current/mule-objectstore.xsd
